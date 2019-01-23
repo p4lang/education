@@ -9,7 +9,22 @@
 
 # Pre-built Environments
 
-* Pointers to pre-built environments (Arturo)
+To start with some P4 tutorials you will need to build a virtual machine. 
+If you are skilled with git, vagrant and Virtualbox:
+
+`git clone https://github.com/p4lang/tutorials`
+
+`cd tutorials/vm`
+
+`vagrant up`
+
+Building the virtual machine will take about an hour because it is necessary to run a some scripts to load the whole environment.
+
+Log in with username p4 and password p4 and issue the command:
+
+`sudo shutdown -r now`
+
+
 
 # Installation and hardware compatibility guides
 
@@ -43,11 +58,18 @@ Useful information can be found in the following links:
     
 * Andy's guides (Andy)
 * SIGCOMM Tutorials (Robert)
-* ONOS tutorial (Arturo)
+* ONOS tutorial
+    * To learn about the support for P4 in ONOS there is a tutorial updated on December 2018. You can find a tutorial presentation that includes an introduction to P4Runtime, ONOS, and use cases (fabric.p4 and spgw.p4) here:
+
+    https://wiki.onosproject.org/pages/viewpage.action?pageId=16122675
+
+    * This tutorial includes hands-on exercices:
+
+    https://github.com/opennetworkinglab/onos/tree/master/apps/p4-tutorial
+
  
 # Code Examples
 
 * Pointers to download example code (Robert)
 
  
-
