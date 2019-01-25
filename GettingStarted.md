@@ -67,6 +67,7 @@ Useful information can be found in the following links:
  
 # Code Examples
 
-* Pointers to download example code (Robert)
+* [Paxos in P4](https://github.com/usi-systems/p4xos-public)
+* [P4Benchmark](https://github.com/usi-systems/p4benchmark)
 
  
