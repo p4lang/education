@@ -51,13 +51,19 @@ P4-NetFPGA is an open source software/hardware platform, and requires a NetFPGA 
     * EdgeCore + Ubuntu
     * EdgeCore + ONL
     * Netronome (Eder)
+    
+# Videos
+
+* [P4 Youtube Channel](https://www.youtube.com/channel/UCOQAFkDKucJWr-KafdJsdIQ)
+* P4 tutorial in four parts:
+     * [Part 1 - Introduction to Data Plane Programming](https://www.youtube.com/watch?v=4w-jEr99pBE)
+     * [Part 2 - Basics Part I](https://www.youtube.com/watch?v=cvDtVobw9wE)
+     * [Part 3 - Basics Part II](https://www.youtube.com/watch?v=6LXtneLfAPI)
+     * [Part 4 - Basic Tunneling Application](https://www.youtube.com/watch?v=KlEi87XYMBE)
 
 # Additional Resources
 
 Useful information can be found in the following links:
-
-* [P4 Youtube Channel](https://www.youtube.com/channel/UCOQAFkDKucJWr-KafdJsdIQ)
-    
 * [Andy Fingerhut's P4 guide](https://github.com/jafingerhut/p4-guide)
 * [Tutorials](https://github.com/p4lang/tutorials)
 * ONOS tutorials:
